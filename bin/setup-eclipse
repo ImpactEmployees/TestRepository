@@ -1,0 +1,4 @@
+#!/bin/bash
+# Install Eclipse 
+
+sudo apt-get install eclipse
