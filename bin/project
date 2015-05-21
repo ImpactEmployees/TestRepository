@@ -2,14 +2,14 @@
 # Start working on the simple project
 
 # Vars
-export p=~/Projects/py1
+export p=~/Projects/TestRepository
 export ph=ubuntu@54.200.88.175
 export port=8011
 export pa=$p/app
 export pb=$p/bin
 export pd=$p/doc
 export pt=$p/test
-export x=~/Projects/py1
+export x=~/Projects/TestRepository
 
 # Aliases
 alias proot="cd $p"

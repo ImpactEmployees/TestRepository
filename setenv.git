@@ -1,0 +1,3 @@
+git config --global push.default matching
+git config --global user.name 'i247a'
+git config --global user.email 'dreiger@i247a'
